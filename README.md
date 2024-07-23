@@ -1,3 +1,11 @@
+<table align="center">
+  <tr>
+    <td align="center">
+     <img src="https://i.postimg.cc/c1wpFy0M/project-Seven1.jpg" border="0" width="800" height="400">
+    </td>
+  </tr>
+</table>
+
 # Retail-Behavior-Analyzer
 
 ## Overview
