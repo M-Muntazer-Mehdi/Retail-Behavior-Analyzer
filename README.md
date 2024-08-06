@@ -46,15 +46,15 @@ This repository contains a comprehensive analysis of customer behavior for the e
 
 ### Module 3: Clustering Analysis
 
-A. **K-Means Clustering:**
+1. **K-Means Clustering:**
    - Determine the optimal number of clusters (k) using elbow plot and silhouette analysis.
    - Apply K-Means algorithm and analyze cluster characteristics.
 
-B. **DBSCAN Clustering:**
+2. **DBSCAN Clustering:**
    - Define `eps` and `MinPts` parameters and experiment with different values.
    - Apply DBSCAN algorithm and compare clusters with those from K-Means.
 
-C. **K-Means++ Clustering:**
+3. **K-Means++ Clustering:**
    - Implement K-Means++ for improved clustering performance.
    - Compare results with K-Means and evaluate cluster quality.
 
